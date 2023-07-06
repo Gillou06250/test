@@ -1,0 +1,18 @@
+/* à rajouter dans le fichier .html s'ouvre avec la balise orpheline <link>
+et on la place à l'intérieur de la balise <head> </head>*/
+
+h1 {
+    color: rgb(208, 29, 29); width: 800px;   }
+/* ---------------------------*/
+ /* h2 { color: mediumblue;}*/
+/* ---------------------------*/
+ p {
+    /* comentaires : les Paragraphes en bleu et bordure */
+    color: blue; width: 40em; border: 2px solid rgb(87, 32, 217);  }
+/* ---------------------------*/
+ .class {
+   color: fuchsia;
+  }
+/* ---------------------------*/
+
+
